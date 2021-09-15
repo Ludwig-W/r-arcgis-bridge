@@ -1,0 +1,16 @@
+^\.git
+\.vs
+\.vscode
+^settings.txt
+^build.bat
+^build.ps1
+^build$
+\.hold$
+^src/msprojects/libobjects$
+README\.md
+DESCRIPTION\.in
+(^|.*)\.pdb
+(^|.*)\.exp
+R.lib
+(^|.*)\.zip
+(^|.*)\.gz
